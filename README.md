@@ -32,7 +32,7 @@ Status
 
 ## :dart: Sobre ##
 
-Um microserviço que proverá os endpoints de autenticação para o projeto MaShop. A MaShop é um projeto que estou fazendo para melhorar minhas habilidades com NodeJS e meu entendimento de como funciona JWT e a lib Bcrypt. mais informações poderão ser encontradas na wiki que farei com todos microsserviços e o frontend.
+Um microsserviço que proverá os endpoints de autenticação para o projeto MaShop. A MaShop é um projeto que estou fazendo para melhorar minhas habilidades com NodeJS e meu entendimento de como funciona JWT e a lib Bcrypt. mais informações poderão ser encontradas na wiki que farei com todos microsserviços e o frontend.
 
 ## :sparkles: Funcionalidades ##
 
